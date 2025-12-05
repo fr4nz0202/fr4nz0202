@@ -15,6 +15,16 @@ I specialize in bridging the gap between mechanical engineering, electronics, an
 
 ## 🏆 Featured Projects
 
+### ⚙️ [Single-Stage Cylindrical Gear Reducer](https://github.com/fr4nz0202/Gear-Reduction-Mechanism)
+*> **Tech:** Mechanical Design, CAD, Excel*
+
+![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-yellow?style=flat-square)
+
+Engineering design of a single-stage cylindrical gear reducer (3kW input).
+* **Specs:** Designed for 1500 rpm input with a constant load application.
+* **Architecture:** Single-stage configuration with rigid housing.
+* **Current State:** Preliminary 2D assembly and 3D modeling complete. Full calculation sheets pending.
+
 ### 🚗 [Mercedes Remote Start System](https://github.com/fr4nz0202/Automotive-Remote-Start-Device)
 *> **Tech:** ESP32, C++, CAN Bus, LTE (SIM A7670), PCB Design*
 
@@ -34,16 +44,6 @@ A complete design and analysis project for a 2-degree-of-freedom robotic manipul
 *> **Tech:** Mechanical Engineering, CAD, Excel*
 
 Standardized engineering design of a flat belt transmission system (3.5kW). Includes force analysis, pulley sizing, and durability verification.
-
-### ⚙️ [Single-Stage Cylindrical Gear Reducer](https://github.com/fr4nz0202/Gear-Reduction-Mechanism)
-*> **Tech:** Mechanical Design, CAD, Excel*
-
-![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-yellow?style=flat-square)
-
-Engineering design of a single-stage cylindrical gear reducer (3kW input).
-* **Specs:** Designed for 1500 rpm input with a constant load application.
-* **Architecture:** Single-stage configuration with rigid housing.
-* **Current State:** Preliminary 2D assembly and 3D modeling complete. Full calculation sheets pending.
 <!--
 ## 📂 Other Repositories
 * **[Project Name]**: Short description...
