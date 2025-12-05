@@ -6,7 +6,7 @@ I specialize in bridging the gap between mechanical engineering, electronics, an
 ---
 
 ## 🛠️ Tech Stack
-* **Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange)
+* **Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange) ![Structured Text](https://img.shields.io/badge/-Structured%20Text-007ACC?style=flat-square&logo=code&logoColor=white)
 * **Embedded:** ![ESP32](https://img.shields.io/badge/-ESP32-red) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-blue)
 * **Protocols:** CAN Bus, ESP-NOW, I2C, SPI, UART
 * **Tools:** Git, Catia, Creo Parametric, Matlab, Simulink, Ansys, KiCAD, Oscilloscope, Multimeter, Soldering Station
